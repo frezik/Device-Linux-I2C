@@ -1,0 +1,9 @@
+Build.PL
+lib/Device/Linux/I2C.pm
+lib/Device/Linux/I2C.xs
+LICENSE
+MANIFEST			This list of files
+ppport.h
+README.md
+t/001_load.t
+t/002_pod.t

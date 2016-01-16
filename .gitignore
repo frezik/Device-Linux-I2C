@@ -1,0 +1,7 @@
+Build
+_build
+blib
+MYMETA.*
+META.*
+*.c
+*.o
